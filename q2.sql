@@ -1,0 +1,3 @@
+Pitches
+
+SELECT COUNT(DISTINCT BRAND ) FROM dataset;
